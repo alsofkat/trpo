@@ -6,8 +6,8 @@ function findGCD(x, y) {
     }
     return x;
   }
-  const X = 24;
-  const Y = 36;
+  const X = 66;
+  const Y = 122;
   const result = findGCD(X, Y);
 
   const fs = require('fs');
